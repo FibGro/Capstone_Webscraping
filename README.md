@@ -1,6 +1,6 @@
 # Capstone_Webscraping
 
-This project contains web scraping using BeautifulSoup to collect information on 50 released movie based on popularity in 2021 from the IMDb web page. The DataFrame will be created using Pandas and cleaned up before implementing data visualization and analysis. The result of this project is to build a plot chart by using VScode and Flask. The webpage is attached as the following link:
+This project contains web scraping using BeautifulSoup to collect information on 50 released movie based on popularity in 2021 from the IMDb web page. The DataFrame will be created using Pandas and cleaned up before implementing data visualization and analysis. The result of this project is to build a plot chart by using VScode and Flask. The webpage is attached as the following link:\
 https://www.imdb.com/search/title/?release_date=2021-01-01,2021-12-31
 
 **There are four information that will be scraped from the webpage:**
