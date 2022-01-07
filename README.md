@@ -4,8 +4,8 @@ This project contains web scraping using BeautifulSoup to collect information on
 https://www.imdb.com/search/title/?release_date=2021-01-01,2021-12-31
 
 **There are four information that will be scraped from the webpage:**
-1. The release title.
-2. The Imdb rating.
+1. The release title
+2. The Imdb rating
 3. The Metascore
 4. The number of votes
 
