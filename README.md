@@ -13,7 +13,7 @@ https://www.imdb.com/search/title/?release_date=2021-01-01,2021-12-31
 1. Requesting the data
 2. Creating a BeautifulSoup object
 3. Finding the right key to scrape the data
-4. Extracting the right information ( title, imdb rating, metascore, number of votes)
+4. Extracting the right information 
 5. Initializing the storage and creating a for loop.
 6. Creating data frame & data wrangling
 7. Data visualization
